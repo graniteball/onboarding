@@ -1,5 +1,11 @@
+CoverMyMeds Onboarding Plan
+=====
+
+Note: 
+
 Week 1:
 ======
+
 Touch base with them daily, at least.  If you don’t hear from them, check in-- better to do that early and get them unstuck then leave them.
 ### Day 1 and 2 ### 
 * Buddy up with last person to get dev env up and running. Introduce mentor, make it clear it’s totally OK to ask all kinds of questions.
